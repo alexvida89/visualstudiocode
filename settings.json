@@ -6,3 +6,13 @@
         "editor.selectionHighlightBackground": "#ff0000"
     },
 }
+
+
+// User Snippets 
+"php-wrapper": {
+    "prefix": "php",
+    "body": [
+        "<?php $0 ?>"
+    ],
+    "description": "wraps in php tags"
+}
