@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 0,
+    "editor.wordWrap": true,
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#ff0000",
+        "editor.selectionHighlightBackground": "#ff0000"
+    },
+}
