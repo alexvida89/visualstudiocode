@@ -3,7 +3,9 @@
     "editor.wordWrap": true,
     "workbench.colorCustomizations": {
         "editor.selectionBackground": "#ff0000",
-        "editor.selectionHighlightBackground": "#ff0000"
+        "editor.selectionHighlightBackground": "#ff0000",
+        "editorBracketMatch.background": "#3344f0",
+        "editor.findMatchHighlightBackground":"#ff0000" 
     },
 }
 
